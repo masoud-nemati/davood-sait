@@ -1,3 +1,3 @@
 :HL["/masoud-site/_next/static/chunks/0d.2eb06xhw-m.css","style"]
 :HL["/masoud-site/_next/static/chunks/02s6jim5.sfaw.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"deploy-nextjs-vercel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"qyXn8Er-6mnUbe3HRvcJS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"deploy-nextjs-vercel","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"2k9Aqay9IlCmITLE6LrDz"}

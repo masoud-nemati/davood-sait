@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/02jcg6icu_ve0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[85437,["/_next/static/chunks/02jcg6icu_ve0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"Image"]
+9:I[97367,["/_next/static/chunks/02jcg6icu_ve0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/02s6jim5.sfaw.css","style"]
+4:T1e84,
+<article >
+
+  <section>
+    <h2>سلام بر همه برگزیدگان خداوند</h2>
+    <p>
+      امروز خیلی از ما مسیحیان در تمام نقاط دنیا مورد آزار و رنج قرار می‌گیریم به خاطر ایمانمان به عیسی مسیح.
+    </p>
+    <p>
+      رساله اول پطرس که برای مسیحیانی که زیر ظلم و آزار شدید زندگی می‌کردند نوشته شده است، با هم مطالعه کنیم و ببینیم چه پیامی برای ما دارد:
+    </p>
+  </section>
+
+  <section>
+    <h2>هویت ما در مسیح</h2>
+    <p>
+      پطرس نامه خود را با این آیه شروع می‌کند: <em>به برگزیدگانی که همچون غریبان در دنیا پراکنده‌اند...</em>
+    </p>
+    <p>
+      این آیه به ما یادآوری می‌کند که ما از طرف خداوند انتخاب شده‌ایم و هویت ما در مسیح شکل گرفته است. شاید این دنیا ما را نپذیرد و با ما مخالفت کند، ولی همه این‌ها نشان‌دهنده وفاداری ما به مسیح است. همانطور که مسیح را در دنیا رد کردند، شاگردان او نیز با همین جفاها مواجه می‌شوند.
+    </p>
+    <p>
+      اما پطرس در این نامه به ما می‌گوید که این جفاها هویت شما را تغییر نمی‌دهد. شما همچنان فرزندان برگزیده خدا هستید.
+    </p>
+  </section>
+
+  <section>
+    <h2>آزمایش‌ها</h2>
+    <blockquote>
+      در این بسیار شادمانید هرچند اکنون زمانی کوتاه بنا به ضرورت در آزمایش‌های گونگون غمگین شده‌اید تا اصالت ایمانتان — که بسیار گرانبهاتر از طلای فانی است که در آتش امتحان می‌شود — در بوته آزمایش به ثبوت رسد... (اول پطرس ۱:۶-۷)
+    </blockquote>
+    <p>
+      پطرس اشاره دارد که این آزمایش‌ها بی‌هدف نیستند. خدا از این‌ها برای تصفیه و تقویت ما استفاده می‌کند. همانطور که طلا در آتش تصفیه می‌شود، ما ایمانداران نیز در این سختی‌ها و جفاها مانند طلا، ناخالصی‌ها را جدا و خالص می‌شویم.
+    </p>
+    <p>
+      این به این معنی نیست که خدا مصوب جفاهاست، بلکه او از هر شرایطی برای خیر ما استفاده می‌کند. و در این رنج‌ها ما درس‌هایی یاد می‌گیریم که باعث رشد ما می‌شوند. ما در این سختی‌هاست که خدا را بهتر می‌شناسیم و به قدرت و اقتدار او پی می‌بریم.
+    </p>
+  </section>
+
+  <section>
+    <h2>مقدس باشید</h2>
+    <blockquote>
+      بلکه همچون آن قدوس که شما را فراخوانده است، شما نیز در همه رفتار خویش مقدس باشید. (اول پطرس ۱:۱۵)
+    </blockquote>
+    <p>
+      امروز در خیلی از زمان‌ها که در رنج و جفا هستیم و تحت فشار قرار می‌گیریم، وسوسه می‌شویم که مانند دنیا عمل کنیم. همان کاری که آنها با ما می‌کنند، ما نیز همان رفتار را انجام دهیم. وسوسه‌هایی همچون خشم، نفرت، کینه و انتقام‌جویی به سراغ ما می‌آیند.
+    </p>
+    <p>
+      اما پطرس ما را دعوت می‌کند که حتی در میان این سختی‌ها نیز قدوسیت را دنبال کنیم. این یک شهادت زنده از قدرت خدا در زندگی ماست. زمانی که دیگران ببینند شما با محبت و امید به سختی‌ها پاسخ می‌دهید، این باعث می‌شود تا آنها به سوی خدا جذب شوند.
+    </p>
+    <p>
+      بیایید همچون عیسی قدوس رفتار کنیم و همیشه نور و نمک باشیم تا همه به سوی خداوند ما عیسی مسیح جذب شوند.
+    </p>
+  </section>
+
+  <section>
+    <h2>محبت به یکدیگر</h2>
+    <blockquote>
+      مهمتر از همه یکدیگر را به شدت محبت کنید زیرا محبت انبوه گناهان را می‌پوشاند. (اول پطرس ۴:۸)
+    </blockquote>
+    <p>
+      در زمان جفا، نیاز داریم که به عنوان بدن مسیح به یکدیگر محبت کنیم و بارهای یکدیگر را حمل کنیم. محبت به برادران و خواهران ایمانی، نه تنها قوتی برای ما خواهد بود، بلکه در این دنیای تاریک نوری برای دیگران خواهد بود.
+    </p>
+  </section>
+
+  <section>
+    <h2>وعده خداوند</h2>
+    <p>
+      پطرس در این نامه بارها به بازگشت مسیح اشاره می‌کند.
+    </p>
+    <blockquote>
+      و خدای همه فیض که شما را در مسیح به جلال ابدی خود فراخوانده، پس از آنکه زمانی کوتاه رنج برده‌اید، خود او شما را کامل و استوار و نیرومند و پابرجا خواهد ساخت. (اول پطرس ۵:۱۰)
+    </blockquote>
+    <p>
+      این وعده به ما اطمینان می‌دهد که سختی‌ها موقتی هستند. روزی مسیح باز خواهد گشت و اشک‌های ما را پاک خواهد کرد. این پاداش بسیار عظیم‌تر از رنج‌هایی است که اکنون تجربه می‌کنیم و باید وفادار بمانیم.
+    </p>
+    <blockquote>
+      پس خویشتن را زیر دست نیرومند خداوند فروتن سازید تا در زمان مناسب سرافرازتان سازد. (اول پطرس ۵:۶)
+    </blockquote>
+    <p>
+      پطرس ما را دعوت می‌کند به فروتنی و اعتماد به خداوند. خداوند هرگز ما را فراموش نمی‌کند و نخواهد کرد. او همراه ما هست حتی در سخت‌ترین لحظات. به او اعتماد کنید و به یاد داشته باشید که قدرت او برای محافظت و هدایت شما کافی است.
+    </p>
+  </section>
+
+  <section>
+    <h2>نتیجه‌گیری</h2>
+    <p>
+      اول پطرس برای ما این پیام را داشت که:
+    </p>
+    <ul>
+      <li>به امید زنده در قیام مسیح چشم بدوزیم.</li>
+      <li>اجازه دهیم آزمایش‌ها ایمان ما را تصفیه کنند.</li>
+      <li>به هویت برگزیدهٔ خود در خداوند افتخار کنیم.</li>
+      <li>محبت و فروتنی را در مقابل جفا پیشه کنیم.</li>
+      <li>به وعدهٔ جلال ابدی وفادار بمانیم.</li>
+    </ul>
+
+    <h3>دعا</h3>
+    <p >
+      خداوندا، تو پناهگاه و قوت ما هستی.<br />
+      در میان آزمایش‌ها و سختی‌ها، امید زنده‌ای که در مسیح داریم را به یادمان بیاور.<br />
+      به ما حکمت و فروتنی عطا کن تا نور تو را به این دنیا بتابانیم و دل‌های شکسته را به سوی تو هدایت کنیم.<br />
+      در نام عیسی مسیح، آمین.
+    </p>
+
+    <p >
+      خداوند با شما باشد و شما را در ایمان استوار سازد.
+    </p>
+  </section>
+
+</article>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-module__Q272DW__container","children":[["$","div",null,{"className":"bg-[#9ebbec] py-5","children":["$","div",null,{"className":"containerD","children":["$","ul",null,{"className":"flex items-center text-xs text-[#0e1016] gap-2","children":[["$","$1","0",{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","className":"text-shop-gray-1000","children":"Home"}]}],["$","span",null,{"className":"text-[#8C9EC5]","children":"›"}]]}],["$","$1","1",{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog","className":"","children":"Blog"}]}],["$","span",null,{"className":"text-[#8C9EC5]","children":"›"}]]}],["$","$1","2",{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/optimize-react-apps","className":"","children":"امید در میان رنج ها و جفاها"}]}],false]}]]}]}]}],["$","div",null,{"className":"article-module__Q272DW__wrapper","children":[["$","section",null,{"className":"containerD my-6 md:my-10","children":["$","div",null,{"children":[["$","button",null,{"className":"px-4 py-2 rounded-lg font-medium transition bg-gray-700 text-white hover:bg-gray-600","children":[["$","span",null,{"className":"text-3xl leading-4 text-teal-600","children":"•"}],["$","span",null,{"className":"text-lg font-normal leading-[18px] text-[#425A8B]","children":"امید"}]]}],["$","h1",null,{"className":" mb-4 pr-5 md:mb-6 mt-3 md:mt-4 text-2xl md:text-3xl lg:text-4xl font-bold leading-tight text-right text-[color:var(--fg)] ","children":"امید در میان رنج ها و جفاها"}],"$undefined"]}]}],["$","section",null,{"className":"containerD my-6 md:my-8","children":["$","div",null,{"className":"relative w-full aspect-[16/9] md:aspect-[21/9] rounded-xl overflow-hidden shadow-lg","children":["$","$L3",null,{"src":"/images/img2/imgomid.jpg","alt":"امید در میان رنج ها و جفاها","fill":true,"className":"object-cover","priority":true,"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 90vw, 80vw"}]}]}],["$","section",null,{"dir":"rtl","className":"containerD my-12","children":["$","article",null,{"className":" blog-content text-slate-700 dark:text-slate-200 ","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$4"}}]}],"$L5","$undefined","$L6"]}]]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6t1u5amrq29ShLaBka1Jq"}
+5:["$","div",null,{"className":"containerD my-8 border-t border-slate-200 dark:border-slate-700"}]
+6:["$","section",null,{"className":"containerD py-8 md:py-12","children":["$","div",null,{"className":"flex justify-start","children":["$","$L2",null,{"href":"/blog","className":" inline-flex items-center gap-3 px-6 py-3 text-sm md:text-base font-medium text-slate-700 dark:text-slate-200 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-xl transition-all duration-200 border border-gray-300 dark:border-gray-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 ","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","strokeWidth":"1","strokeLinecap":"round","strokeLinejoin":"round","stroke":"currentColor","className":"w-5 h-5","children":[["$","path",null,{"d":"M27 16H5","strokeLinecap":"round","strokeLinejoin":"round"}],["$","path",null,{"d":"M14 7L5 16L14 25","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{}]]}]}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/02s6jim5.sfaw.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

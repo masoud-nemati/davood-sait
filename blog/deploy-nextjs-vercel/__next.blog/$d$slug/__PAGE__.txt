@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/02jcg6icu_ve0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[85437,["/_next/static/chunks/02jcg6icu_ve0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"Image"]
+9:I[97367,["/_next/static/chunks/02jcg6icu_ve0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/02s6jim5.sfaw.css","style"]
+4:T162d,
+<article >
+
+  <section>
+    <h2>خانواده و تأثیر آن بر زندگی انسان‌ها</h2>
+    <p>
+      خانواده یکی از مهمترین و تأثیرگذارترین عوامل در زندگی انسان‌ها است و دارای نقاط قوت و منفی مختلفی می‌باشد که تأثیراتی مهمی بر زندگی افراد دارند. حتی تاریخ و فرهنگی که در آن بزرگ شده‌ایم بر زندگی تمام انسان‌ها تاثیر گذار است و شخصیت‌ها را شکل می‌دهند. هر کدام به یک طریقی تاثیرات منفی و مثبت خودشان را انتقال می‌دهند.
+    </p>
+    <p>
+      امروز ما چطور می‌توانیم این‌ها را تشخیص دهیم؟ چگونه می‌توانیم ضعف‌ها و کمبودهای اخلاقی خود را که از طریق خانواده و جامعه به ما انتقال داده شده را برطرف کنیم؟ چطور تلاش کنیم و قدم برداریم؟ لازم است تا ریشه‌یابی کنیم و به راحتی از کنار مشکلات نگذریم و با آرامی برای بهتر شدن قدم برداریم.
+    </p>
+    <p>
+      به طور خلاصه خانواده تأثیرات مهمی بر زندگی انسان‌ها دارد. تلاش برای تقویت نقاط قوت خانواده و کاهش نقاط ضعف می‌تواند به بهبود کیفیت زندگی افراد کمک کند. در این مقاله می‌پردازیم به تعدادی از نقاط قوت و ضعف خانواده و بررسی می‌کنیم که چطور ما را شکل دادند — چه از لحاظ روحانی و عاطفی. در ضمن همه خانواده‌ها شکل هم نیستند و ضعف‌ها و قوت‌هایشان متفاوت هستند و بستگی به شرایط دارد.
+    </p>
+  </section>
+
+  <section>
+    <h2>ارزش‌ها و باورهای خانواده</h2>
+    <p>
+      ارزش‌ها و باورهای خانواده‌ها به عنوان مجموعه اصول و مفاهیمی تعریف می‌شوند که درون یک خانواده به عنوان مرجعیت‌های اصلی برای تصمیم‌گیری، رفتار و تعاملات اجتماعی اعضای خانواده تأثیر می‌گذارند. این ارزش‌ها و باورها معمولاً از نسل به نسل منتقل می‌شوند و شکل‌گیری آنها تحت تأثیر متغیرهای مختلف از جمله فرهنگ، مذهب، تاریخ خانواده و تجربیات شخصی اعضای خانواده است.
+    </p>
+    <p>
+      به چند مورد از این باورها اشاره می‌کنم که شامل موارد زیر می‌باشد:
+    </p>
+    <ul>
+      <li>احترام به مسائل مذهبی</li>
+      <li>اهمیت تعلیم و تربیت</li>
+      <li>ارتقاء انسجام خانوادگی</li>
+      <li>عدالت و انصاف</li>
+      <li>اهمیت کار انسانی</li>
+    </ul>
+    <p>
+      این موارد تنها تعدادی از ارزش‌های خانواده‌ها می‌باشند که خیلی از آنها باعث تاثیرات مثبت در افراد خانواده و بلعکس موجب تاثیرات منفی می‌شوند.
+    </p>
+  </section>
+
+  <section>
+    <h2>نقاط قوت خانواده</h2>
+    <p>
+      مطمئناً در همه خانواده‌ها نقاط قوت و ضعف وجود دارد. مانند:
+    </p>
+    <ul>
+      <li><strong>مسئولیت‌پذیری</strong></li>
+      <li><strong>متعهد بودن در قبال خانواده و اجتماع</strong></li>
+    </ul>
+    <p>
+      پدر من مسئولیت تمام خانواده را بر عهده داشت و نیازها مانند غذا، لباس، مسکن و مراقبت از سلامتی را به‌طور عالی انجام می‌داد و همیشه می‌گفت شما به فکر درس‌هایتان باشید و من تمام هزینه‌ها را متحمل می‌شوم تا شما بتوانید در آینده موفق باشید.
+    </p>
+  </section>
+
+  <section>
+    <h2>نقاط ضعف خانواده</h2>
+    <p>
+      همانطور که نقاط مثبت خانواده اشاره کردیم، نقاط ضعف نیز وجود دارند. به چند مورد از نقاط ضعفی که در خانواده من وجود داشت اشاره می‌کنم:
+    </p>
+    <ul>
+      <li>اختلافات خشونت‌آمیز</li>
+      <li>احساسات بیان نمی‌شدند</li>
+      <li>مسائل جنسی صحبت نمی‌شدند</li>
+      <li>روابط خشک بین اعضای خانواده</li>
+    </ul>
+    <p>
+      این نقاط ضعف تاثیرات منفی در من گذاشت و باعث شد که نتوانم احساسات خود را بروز دهم و حتی الان هم در بیان احساسات مشکل دارم.
+    </p>
+  </section>
+
+  <section>
+    <h2>سخن آخر</h2>
+    <p>
+      در نتیجه، با بررسی تعدادی از نقاط قوت و ضعف خانواده‌ها پی می‌بریم که خانواده یک مؤسسه مهم در زندگی انسان‌هاست که نقاط قوت و ضعف خود را دارد.
+    </p>
+    <p>
+      توجه به نقاط قوت و تلاش برای کاهش نقاط ضعف می‌تواند بهبود روابط خانوادگی و بهبود کیفیت زندگی اعضای خانواده را تسهیل کند.
+    </p>
+  </section>
+
+</article>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-module__Q272DW__container","children":[["$","div",null,{"className":"bg-[#9ebbec] py-5","children":["$","div",null,{"className":"containerD","children":["$","ul",null,{"className":"flex items-center text-xs text-[#0e1016] gap-2","children":[["$","$1","0",{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/","className":"text-shop-gray-1000","children":"Home"}]}],["$","span",null,{"className":"text-[#8C9EC5]","children":"›"}]]}],["$","$1","1",{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog","className":"","children":"Blog"}]}],["$","span",null,{"className":"text-[#8C9EC5]","children":"›"}]]}],["$","$1","2",{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/deploy-nextjs-vercel","className":"","children":"حریم‌ها، حیطه‌ها و مرزها: تعریف و تفاوت‌ها"}]}],false]}]]}]}]}],["$","div",null,{"className":"article-module__Q272DW__wrapper","children":[["$","section",null,{"className":"containerD my-6 md:my-10","children":["$","div",null,{"children":[["$","button",null,{"className":"px-4 py-2 rounded-lg font-medium transition bg-gray-700 text-white hover:bg-gray-600","children":[["$","span",null,{"className":"text-3xl leading-4 text-teal-600","children":"•"}],["$","span",null,{"className":"text-lg font-normal leading-[18px] text-[#425A8B]","children":"حیطه ها"}]]}],["$","h1",null,{"className":" mb-4 pr-5 md:mb-6 mt-3 md:mt-4 text-2xl md:text-3xl lg:text-4xl font-bold leading-tight text-right text-[color:var(--fg)] ","children":"حریم‌ها، حیطه‌ها و مرزها: تعریف و تفاوت‌ها"}],"$undefined"]}]}],["$","section",null,{"className":"containerD my-6 md:my-8","children":["$","div",null,{"className":"relative w-full aspect-[16/9] md:aspect-[21/9] rounded-xl overflow-hidden shadow-lg","children":["$","$L3",null,{"src":"/images/blog-img/blog-img-big.png","alt":"حریم‌ها، حیطه‌ها و مرزها: تعریف و تفاوت‌ها","fill":true,"className":"object-cover","priority":true,"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 90vw, 80vw"}]}]}],["$","section",null,{"dir":"rtl","className":"containerD my-12","children":["$","article",null,{"className":" blog-content text-slate-700 dark:text-slate-200 ","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"$4"}}]}],"$L5","$undefined","$L6"]}]]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6t1u5amrq29ShLaBka1Jq"}
+5:["$","div",null,{"className":"containerD my-8 border-t border-slate-200 dark:border-slate-700"}]
+6:["$","section",null,{"className":"containerD py-8 md:py-12","children":["$","div",null,{"className":"flex justify-start","children":["$","$L2",null,{"href":"/blog","className":" inline-flex items-center gap-3 px-6 py-3 text-sm md:text-base font-medium text-slate-700 dark:text-slate-200 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-xl transition-all duration-200 border border-gray-300 dark:border-gray-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 ","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","strokeWidth":"1","strokeLinecap":"round","strokeLinejoin":"round","stroke":"currentColor","className":"w-5 h-5","children":[["$","path",null,{"d":"M27 16H5","strokeLinecap":"round","strokeLinejoin":"round"}],["$","path",null,{"d":"M14 7L5 16L14 25","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{}]]}]}]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/02s6jim5.sfaw.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

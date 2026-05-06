@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0d.2eb06xhw-m.css","style"]
+:HL["/_next/static/chunks/0..vuvit20hb2.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"skills","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6t1u5amrq29ShLaBka1Jq"}

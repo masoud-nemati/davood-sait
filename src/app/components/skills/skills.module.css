@@ -1,0 +1,52 @@
+@reference "tailwindcss";
+
+.skillsPage {
+  @apply min-h-screen p-8;
+}
+
+.h2skill {
+  @apply relative mb-14 text-center text-4xl font-bold tracking-tight;
+}
+
+.h2skill::after {
+  content: "";
+  @apply mx-auto mt-4 block h-1 w-24 rounded-full;
+}
+
+.sectionTitle {
+  @apply relative mb-6 block text-2xl font-semibold;
+}
+
+.sectionTitle::after {
+  content: "";
+  @apply mt-3 block h-[3px] w-full rounded-full
+         bg-slate-300 dark:bg-slate-700;
+}
+
+
+.skillsList {
+  @apply flex flex-wrap justify-center gap-10;
+}
+
+.skillCard {
+  @apply relative flex w-[360px] flex-col items-center gap-4
+         rounded-2xl border p-8 text-center
+         transition-all duration-300
+         hover:-translate-y-2;
+}
+
+.skillLogo {
+  @apply mb-2 flex h-14 w-14 items-center justify-center rounded-xl;
+}
+
+.skillName {
+  @apply text-lg font-semibold;
+}
+
+.meter {
+  @apply mt-2 h-2 w-full overflow-hidden rounded-full;
+}
+
+.skillLevel {
+  @apply mt-2 text-sm;
+}

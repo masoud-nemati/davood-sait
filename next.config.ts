@@ -1,7 +1,9 @@
 const nextConfig = {
-  output: 'export',        // خیلی مهم!
+  output: "export",
+  images: { unoptimized: true },
   trailingSlash: true,
-  images: {
-    unoptimized: true,     // برای GitHub Pages لازمه
-  },
-}
+  basePath: "/davood-sait ", // 👈 مهم
+  assetPrefix: "/davood-sait /", // 👈 مهم برای CSS
+};
+
+export default nextConfig;

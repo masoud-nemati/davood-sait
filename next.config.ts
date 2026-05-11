@@ -1,9 +1,7 @@
 const nextConfig = {
-  output: "export",
+  reactStrictMode: true,
   images: { unoptimized: true },
   trailingSlash: true,
-  basePath: "/davood-sait ", // 👈 مهم
-  assetPrefix: "/davood-sait /", // 👈 مهم برای CSS
-};
+}
 
 export default nextConfig;

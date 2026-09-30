@@ -35,6 +35,27 @@ export default function AboutJourney() {
         <p className="text-gray-400 transition-all duration-300 group-hover:text-gray-200 group-hover:scale-[1.01]">
           God has helped me a lot and has changed my life.
         </p>
+                <p className="text-gray-400 transition-all duration-300 group-hover:text-gray-200 group-hover:scale-[1.01]">
+          God has helped me a lot and has changed my life.
+        </p>
+
+        <p className="transition-all duration-300 group-hover:text-gray-100 group-hover:scale-[1.01]">
+          I also built{" "}
+          <a
+            href="https://christian.masoudnemati.com/fa"
+            className="text-blue-400 font-semibold underline"
+          >
+            Christian Guide
+          </a>
+          , a free website for daily Bible reading, prayer and quiet time
+          in Persian, Turkish, English and French. Start here:{" "}
+          <a
+            href="https://christian.masoudnemati.com/fa/quiet-time"
+            className="text-blue-400 font-semibold underline"
+          >
+            What is quiet time? / رازگاهان چیست؟
+          </a>
+        </p>
 
         <p className="transition-all duration-300 group-hover:text-gray-100 group-hover:scale-[1.01]">
           But above all, my family means so much to me. I live with my wonderful
